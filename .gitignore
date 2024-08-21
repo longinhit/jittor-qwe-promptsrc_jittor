@@ -1,0 +1,7 @@
+caches
+data/result.txt
+data/TestSetB
+data/TrainSet
+jclip/ViT-B-32.pkl
+__pycache__
+save_model
